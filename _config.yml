@@ -12,6 +12,7 @@ author:
   name:         Jake Yang
   url:          https://jake-yang.github.io/
   email:        yanghyunsung322@gmail.com
+  baseurl:      "/tale"
 
 # Build settings
 markdown:       kramdown
