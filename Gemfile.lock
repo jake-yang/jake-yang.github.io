@@ -166,8 +166,10 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0)
+  jekyll-feed
   jekyll-paginate
   jekyll-remote-theme
+  jekyll-seo-tag
   rake (~> 12.3.3)
   tale!
 
