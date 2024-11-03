@@ -1,6 +1,6 @@
 # Site settings
-title:          블로그의 제목을 입력하세요 
-description:    "블로그의 설명을 입력하세요 "
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
 url:            "https://jake-yang.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Jake Yang
-  url:          https://jake-yang.github.io
-  email:        yanghyunsung322@gmail.com
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
