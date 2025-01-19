@@ -1,13 +1,16 @@
 # User config
-author: "Satoshi Nakamoto"
+author: "Jake Hyunseong Yang"
 tagline: "Pineapple Certfied Jekyll Theme"
-description: "코딩을 열심히 한다는 것은 그림을 열심히 그린다는 것"
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+description: "You miss 100% of the shots you don't take. –Wayne Gretzky.<br><br>
+Drawing Generative Arts with p5.js, please enjoy!"
+keywords: "Generative Arts"
 email: "yanghyunsung322@gmail.com"
 
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+linkedin: "https://www.linkedin.com/in/jakehyunseong/"
+twitter: "https://x.com/99hyu99"
+github: "https://github.com/jake-yang"
+youtube: "https://www.youtube.com/@WhimsyWealth-y9w"
+note: "https://note.com/nomorecoffee"
 
 # Site config
 baseurl: ""
