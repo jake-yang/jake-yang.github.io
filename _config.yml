@@ -1,16 +1,15 @@
 # User config
 author: "Jake Hyunseong Yang"
-tagline: "Pineapple Certfied Jekyll Theme"
+tagline: "Generative Arts"
 description: "You miss 100% of the shots you don't take. –Wayne Gretzky.<br><br>
 Drawing Generative Arts with p5.js, please enjoy!"
 keywords: "Generative Arts"
 email: "yanghyunsung322@gmail.com"
 
 linkedin: "https://www.linkedin.com/in/jakehyunseong/"
-twitter: "https://x.com/99hyu99"
-github: "https://github.com/jake-yang"
-youtube: "https://www.youtube.com/@WhimsyWealth-y9w"
+youtube: "https://www.youtube.com/@brewingrussian"
 note: "https://note.com/nomorecoffee"
+instagram: "https://www.instagram.com/jakeyang.js/"
 
 # Site config
 baseurl: ""
